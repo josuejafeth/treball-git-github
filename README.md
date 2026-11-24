@@ -10,3 +10,7 @@ de la signatura de entorns de desenvolupament.
 - Treballar amb branques.
 - Apendre a realitzar commits.
 - Colaborar amb altres companys.
+
+## Treball local
+He modificat aquest arxiu desde el meu ordinador 
+utilitzant Visual Studio Code i Git.
